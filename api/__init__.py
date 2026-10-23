@@ -1,0 +1,1 @@
+"""CosyVoice HTTP API wrapper."""
